@@ -12,7 +12,7 @@ function myFunction() {
     var subject = 'New Worry Box Submission';
     var firstName = row[1];
     var sirName = row[2];
-    var other = row[3];
+    var iFeel = row[3];
     var explanation = row[4];
     var body = 'Hello \n\nSomeone has added a worry box submission: \n\nFirst name: ' + firstName + '\nSecond name: ' + sirName + '\nI feel: ' + iFeel + '\nExplanation: ' + explanation;
     
